@@ -1,0 +1,9 @@
+Türev, matematiksel fonksiyonların eğimlerinin hesaplanmasına olanak tanıyan bir kavramdır. Bu, bir fonksiyonun belirli bir noktasındaki eğim miktarını ifade eder.
+
+Diyelim ki bir araba hareket ediyor ve konumunu zamana bağlı olarak değiştiriyor. Bu değişimin hızı, yani arabayı ne kadar hızlı hareket ettiği, o anki eğim miktarıyla belirlenir. İşte türev de aynı fikirle çalışır. Bir fonksiyonun belirli bir noktasındaki eğimi, o fonksiyonun türevi olarak adlandırılır.
+
+Bir fonksiyonun türevi, o fonksiyonun herhangi bir noktasındaki eğimi hesaplamamıza olanak tanır. Bu eğimler, fonksiyonun grafiksel temsili olan doğru çizgiler olarak ifade edilebilir. Bu doğru çizgiler, fonksiyonun en yüksek veya en düşük noktasına ulaştığı yerleri ve fonksiyonun ne zaman değişim gösterdiğini belirlememize yardımcı olabilir.
+
+Türev, matematiksel modellerde ve hesaplamalarda sıklıkla kullanılır. Örneğin, bir fonksiyonun en yüksek veya en düşük noktalarını belirlemek, o fonksiyonun türevinin sıfır olduğu yerlerde yapılabilir. Ayrıca, türev, matematiksel fonksiyonların değişim hızlarının hesaplanmasında da kullanılır.
+
+Sonuç olarak, türev, matematiksel fonksiyonların eğimlerini hesaplamak ve fonksiyonların değişim hızlarını belirlemek için önemli bir araçtır.
